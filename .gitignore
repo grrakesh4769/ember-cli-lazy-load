@@ -37,3 +37,4 @@ build/Release
 /dist
 /tmp
 .DS_Store
+.node_modules.ember-try
